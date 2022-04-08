@@ -1,1 +1,1 @@
-# Polushkin_6132_LR_1
+# Kotochelenge Convolutional Neural Network
